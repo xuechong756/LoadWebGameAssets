@@ -1,0 +1,7 @@
+{
+	"ver":1.0,
+	"map":{
+		"assets":"res/raw-assets/",
+		"internal":"res/raw-internal/"
+	}
+}
